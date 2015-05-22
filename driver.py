@@ -2,7 +2,7 @@ import fresh_tomatoes
 import media
 
 '''This is the driver class to actual create the moive list and render the moive trailer website.'''
-
+'''All the moive storylines are from IMDB.com'''
 #Create all the movie objects
 
 socialnetwork = media.Movie("The Social Network",
