@@ -1,8 +1,9 @@
 import webbrowser
 
 class Movie():
-    '''Movie class is a class define a movie object including the title, storyline,
-       poster image, and tralier.'''
+    '''Movie class is a class define a movie object including the title,
+    storyline, poster image, and tralier.
+    '''
     
     def __init__(self, movie_title, moive_storyline, poster_img, trailer_youtube):
         self.title = movie_title
